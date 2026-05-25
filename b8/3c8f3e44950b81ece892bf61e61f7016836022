@@ -1,0 +1,19 @@
+CNAME
+  s_f61789de68cd8c::t_adcddd63812cad 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "b83c8f3e44950b81ece892bf61e61f7016836022",
+  "prompts": {},
+  "sessions": {
+    "s_f61789de68cd8c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "308a9055-c460-481a-922c-c4b457e1909f",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Marty <saint@ghost.lt>"
+    }
+  }
+}
