@@ -1,0 +1,33 @@
+PLAN-chinese-site-adaptation.md
+  s_f61789de68cd8c::t_14eeda599ab152 1-220
+styles.css
+  s_f61789de68cd8c::t_14eeda599ab152 1-343
+sync-success.html
+  s_f61789de68cd8c::t_14eeda599ab152 1-16
+_headers
+  s_f61789de68cd8c::t_14eeda599ab152 1-5
+.nojekyll
+  s_f61789de68cd8c::t_14eeda599ab152 1
+privacy.html
+  s_f61789de68cd8c::t_14eeda599ab152 1-48
+CNAME
+  s_f61789de68cd8c::t_14eeda599ab152 1
+index.html
+  s_f61789de68cd8c::t_14eeda599ab152 1-753
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "dc4e2df160996e72c087892d14fde7830b4075e2",
+  "prompts": {},
+  "sessions": {
+    "s_f61789de68cd8c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "308a9055-c460-481a-922c-c4b457e1909f",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Marty <saint@ghost.lt>"
+    }
+  }
+}
